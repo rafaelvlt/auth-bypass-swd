@@ -12,7 +12,7 @@ This repo contains the vulnerable target sketch, a UART bridge sketch (for when 
 
 The technique follows the approach described in *Practical IoT Hacking* by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, and Beau Woods (No Starch Press, 2021), originally demonstrated on an STM32F103. This repo adapts it to the STM32F401 "Black Pill."
 
-A full write-up with explanations is available here: **[link do post no Medium]**
+A full write-up with explanations is available [here](https://medium.com/@rafaeruucharlotte/debugging-trust-how-a-debug-port-can-bypass-your-firmwares-password-check-cea66e07a078?postPublishedType=initial)
 
 ## Hardware
 
@@ -139,7 +139,3 @@ A debug interface left active cancels out whatever security the firmware thinks 
 ## Credits
 
 Rafael and Ivison, LSEC (Liga Acadêmica de Segurança Cibernética) - Centro de Informática, UFPE.
-
-## License
-
-MIT (or update this section to match your intended license).
